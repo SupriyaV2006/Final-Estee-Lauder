@@ -11,7 +11,7 @@
         <!--View Controller-->
         <scene sceneID="d5r-jb-mfn">
             <objects>
-                <viewController id="gVC-EW-Rx7" customClass="ViewController" customModule="Estee_Lauder" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="gVC-EW-Rx7" customClass="ViewController" customModule="Final_Estee_Lauder" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="pnp-co-a5r">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
